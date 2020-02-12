@@ -1,0 +1,26 @@
+<annotation>
+	<folder>001plate</folder>
+	<filename>m237_0.jpg</filename>
+	<path>/home/theophile/Desktop/Plate-Detection/darkflow/data/Images/001plate/m237_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>999</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>540</ymin>
+			<xmax>576</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

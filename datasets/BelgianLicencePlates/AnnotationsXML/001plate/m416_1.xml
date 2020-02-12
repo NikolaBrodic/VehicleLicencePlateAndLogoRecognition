@@ -1,0 +1,26 @@
+<annotation>
+	<folder>001</folder>
+	<filename>m416_1.jpg</filename>
+	<path>/home/theophile/Desktop/Intys-Plate-Detection/darkflow/data/Images/001/m416_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>293</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>235</ymin>
+			<xmax>155</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>
